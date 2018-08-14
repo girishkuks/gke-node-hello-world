@@ -32,4 +32,4 @@ kubectl describe service my-service | grep Ingress
 ```
 
 ### References
-- [Deploy a Containerized Node app to Kubernetes Engine](https://cloud.google.com/nodejs/docs/tutorials/bookshelf-on-kubernetes-engine)
+- [Running the Node.js Bookshelf on Kubernetes Engine](https://cloud.google.com/nodejs/docs/tutorials/bookshelf-on-kubernetes-engine)
