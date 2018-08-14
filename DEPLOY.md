@@ -1,7 +1,9 @@
 ## Deploy a Containerized "Hello World" Application to Kubernetes Engine
 
 ### Setup
+```
 gcloud components install kubectl
+```
 
 ### Create a cluster
 ```
